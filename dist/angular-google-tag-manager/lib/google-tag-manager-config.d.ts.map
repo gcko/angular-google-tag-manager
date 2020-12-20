@@ -1,0 +1,1 @@
+{"version":3,"file":"google-tag-manager-config.d.ts","sourceRoot":"../../../projects/angular-google-tag-manager/src/","sources":["lib/google-tag-manager-config.ts"],"names":[],"mappings":"AAAA,MAAM,WAAW,sBAAsB;IACrC,EAAE,EAAE,MAAM,GAAG,IAAI,CAAC;IAClB,QAAQ,CAAC,EAAE,MAAM,CAAC;IAClB,WAAW,CAAC,EAAE,MAAM,CAAC;IACrB,CAAC,GAAG,EAAE,MAAM,GAAG,MAAM,GAAG,IAAI,GAAG,SAAS,CAAC;CAC1C"}
